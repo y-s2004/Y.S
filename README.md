@@ -1,13 +1,13 @@
 <h1 align="center">Y.S</h1>
 
 <p align="center">
-  Elegant overlay built with ❤️ and JavaScript
+  日本のエンジニア
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourname/your-repo?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/yourname/your-repo?style=flat-square" />
-  <img src="https://img.shields.io/github/license/yourname/your-repo?style=flat-square" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?y-s2004=yourname&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
 </p>
 
 ---
