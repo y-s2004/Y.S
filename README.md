@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=y-s2004&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=y-s2004&show_icons=true&theme=ambient_gradient" />
 
 </p>
 
