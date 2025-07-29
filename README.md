@@ -1,4 +1,4 @@
-<h1 align="center">🎨 My Awesome Overlay Project</h1>
+<h1 align="center">Y.S</h1>
 
 <p align="center">
   Elegant overlay built with ❤️ and JavaScript
