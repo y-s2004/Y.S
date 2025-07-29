@@ -1,4 +1,3 @@
-&theme=dark
 <h1>Y.S</h1>
 
 <p>
@@ -8,6 +7,12 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=y-s2004&show_icons=true&theme=ambient_gradient" />
 
+</p>
+
+## 📌 注目のリポジトリ
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=y-s2004&repo=pc-rental&theme=ambient_gradient" />
 </p>
 
 ## Skills
