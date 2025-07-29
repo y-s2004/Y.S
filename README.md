@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?y-s2004=yourname&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+  <img src="https://img.shields.io/github/stars/y-s2004/pc-rental?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/y-s2004/pc-rental-backend?style=flat-square" />
+  <img src="https://img.shields.io/github/license/y-s2004/portfolio-v1?style=flat-square" />
 </p>
 
 ---
