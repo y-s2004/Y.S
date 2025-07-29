@@ -1,10 +1,10 @@
-<h1 align="center">Y.S</h1>
+<h1>Y.S</h1>
 
-<p align="center">
+<p>
   日本のエンジニア
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/stars/y-s2004/pc-rental?style=flat-square" />
   <img src="https://img.shields.io/github/forks/y-s2004/pc-rental-backend?style=flat-square" />
   <img src="https://img.shields.io/github/license/y-s2004/portfolio-v1?style=flat-square" />
