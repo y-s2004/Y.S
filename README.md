@@ -19,8 +19,6 @@
 
 ## Skills
 
-## Skills
-
 <p align="left">
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="28" style="margin-right: 10px;" />
