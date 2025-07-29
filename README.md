@@ -9,7 +9,7 @@
 
 </p>
 
-## 📌 注目のリポジトリ
+## 📌 最近のリポジトリ
 
 <p>
   <a href="https://github.com/y-s2004/pc-rental">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## Skills
+## 💪Skills
 
 <p>
   <a href="https://www.java.com/">
@@ -73,7 +73,7 @@
   </a>
 </p>
 
-## Main Language
+## 🗣️Main Language
 
 <p>
   <a href="https://www.java.com/">
@@ -93,7 +93,7 @@
   </a>
 </p>
 
-## DataBase
+## 🧑‍💻DataBase
 
 <p>
   <a href="https://www.postgresql.org/">
