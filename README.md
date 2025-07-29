@@ -63,7 +63,9 @@
 ## Main Language
 
 <p>
-  
+  <a href="https://www.java.com/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  </a>
 </p>
 
 ## DataBase
