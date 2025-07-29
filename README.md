@@ -5,10 +5,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Contributions-1200/year-green?style=flat&logo=github&logoColor=white" /></br> 
-  <img src="https://img.shields.io/badge/Public_Repos-45-blue?style=flat&logo=github&logoColor=white" /></br>
-  <img src="https://img.shields.io/badge/Joined-2019-informational?style=flat&logo=github&logoColor=white" /></br>
-  <img src="https://img.shields.io/badge/Location-Tokyo,_Japan-red?style=flat&logo=pinboard&logoColor=white" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=y-s2004&show_icons=true&theme=default" />
+
 </p>
 
 ## Skills
