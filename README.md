@@ -12,13 +12,15 @@
 ## 📌 注目のリポジトリ
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=y-s2004&repo=pc-rental&theme=ambient_gradient" />
+  <a href="https://github.com/y-s2004/pc-rental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=y-s2004&repo=pc-rental&theme=ambient_gradient" />
+  </a>
 </p>
 
 ## Skills
 
 <p>
-  <a href="https://www.java.com/" style="text-decoration: none;">
+  <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   </a>
   
@@ -80,7 +82,7 @@
 ## Main Language
 
 <p>
-  <a href="https://www.java.com/" style="text-decoration: none;">
+  <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
