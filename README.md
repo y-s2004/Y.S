@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/github/license/y-s2004/portfolio-v1?style=flat-square" />
 </p>
 
----
-
-## Skills
-
 ## Skills
 
 <p align="center">
@@ -38,12 +34,12 @@
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  </a>
   <a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   </a>
@@ -64,8 +60,6 @@
   </a>
 </p>
 
----
-
 ## Main Language
 
 <p>
@@ -73,8 +67,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 </p>
-
----
 
 ## DataBase
 
