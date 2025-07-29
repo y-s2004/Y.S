@@ -12,7 +12,7 @@
 
 ## Skills
 
-<p align="center">
+<p>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   </a>
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   </a>
@@ -63,9 +63,7 @@
 ## Main Language
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  
 </p>
 
 ## DataBase
