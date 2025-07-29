@@ -4,12 +4,6 @@
   日本のエンジニア
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/y-s2004/pc-rental?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/y-s2004/pc-rental-backend?style=flat-square" />
-  <img src="https://img.shields.io/github/license/y-s2004/portfolio-v1?style=flat-square" />
-</p>
-
 ## Skills
 
 <p>
@@ -63,7 +57,7 @@
 ## Main Language
 
 <p>
-  <a href="https://www.java.com/>
+  <a href="https://www.java.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   </a>
 </p>
