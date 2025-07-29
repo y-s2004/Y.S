@@ -10,9 +10,11 @@
   <a href="https://www.java.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
   </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   </a>
